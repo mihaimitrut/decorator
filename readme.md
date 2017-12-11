@@ -1,0 +1,1 @@
+Decorator pattern - Wikipedia example

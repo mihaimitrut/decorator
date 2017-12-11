@@ -1,0 +1,16 @@
+{
+  "name": "mihaimitrut/decorator",
+  "description": "The decorator pattern implementation in PHP",
+  "authors": [
+    {
+      "name": "Mihai Mitrut",
+      "email": "mihai.mitrut@gmail.com"
+    }
+  ],
+  "autoload" : {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {}
+}
